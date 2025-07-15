@@ -107,5 +107,3 @@ This project models relationships between diseases and symptoms as a **heterogen
 
 ---
 
-## 📂 Project Structure
-
